@@ -1,6 +1,9 @@
 # hanghae_level4
 항해99 Node.js Level4
 
+## ERD
+https://drawsql.app/teams/ksnx3684s-team/diagrams/hanghae-level4
+
 ---
 
 ### 1. 좋아요 API는 어떻게 구현하였나요? 만약 1개로 구현하였다면, 분기 처리는 어떻게 처리하였나요?
